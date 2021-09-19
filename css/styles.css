@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins&display=swap');
+.background, body {
+    background-image:url("../images/bg3.jpg");
+    /* background-color: black; */
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family: 'Poppins', sans-serif
+}
+
+nav a:hover{
+
+    background-color:rgb(99, 89, 89);
+   border-radius:5%;
+   color: rgb(247, 197, 136);
+ 
+  }
